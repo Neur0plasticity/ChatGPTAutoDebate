@@ -2,7 +2,7 @@
 Give it a topic to debate about and it will auto role play debators.
 
 
-Step 1) Visit prompt link [AutoDebate](https://github.com/Neur0plasticity/ChatGPTAutoDebate/blob/main/prompt.autodebate.txt)
+Step 1) Visit prompt link [AutoDebatePrompt](https://github.com/Neur0plasticity/ChatGPTAutoDebate/blob/main/prompt.autodebate.txt)
 
 Step 2) Copy the prompt.
 
