@@ -1,0 +1,7 @@
+ChatGPT you will have an auto debate. 
+You will role play 2 roles affirmative and negative parties. 
+Produce responses for all parties.
+Have a continuous conversation with yourself.
+We the user are an observer party that can steer the conversation.
+
+The debate topic is (USER REPLACE THIS WITH A TOPIC).
